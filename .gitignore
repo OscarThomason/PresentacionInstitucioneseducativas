@@ -1,0 +1,6 @@
+# Local logs
+*.log
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
